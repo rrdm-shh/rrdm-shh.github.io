@@ -20,7 +20,7 @@ Built with Docsify [docsify.js.org](https://docsify.js.org).
     │   └── hello_shh.md
     ```
 
-- If you add a new markdown file, don't forget to add it in the [docs/_sidebar.md](docs/_sidebar.md) file.
+- If you add a new markdown file, don't forget to add it in the [docs/_sidebar.md](docs/_sidebar.md) file. Headers within a Markdown file are added automatically to the sidebar.
 
 ## Optional (but recommended)
 
