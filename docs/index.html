@@ -14,7 +14,10 @@
     window.$docsify = {
       name: 'RRDM-SHH',
       repo: 'https://github.com/rrdm-shh/rrdm-shh.github.io',
+      homepage: 'README.md',
       loadSidebar: true,
+      coverpage: true,
+      onlyCover: false,
       subMaxLevel: 2,
       alias: {
         '/.*/_sidebar.md': '/_sidebar.md'
@@ -22,5 +25,8 @@
     }
   </script>
   <script src="//unpkg.com/docsify/lib/docsify.min.js"></script>
+  <script src="//unpkg.com/prismjs/components/prism-bash.min.js"></script>
+  <script src="//unpkg.com/prismjs/components/prism-python.min.js"></script>
+  <script src="//unpkg.com/prismjs/components/prism-r.min.js"></script>
 </body>
 </html>
