@@ -1,4 +1,4 @@
-Source repository of [https://rrdm-shh.github.io](https://rrdm-shh.github.io/)
+Source repository of [https://rrdm-shh.github.io](https://rrdm-shh.github.io/website)
 
 Built with Docsify [docsify.js.org](https://docsify.js.org).
 
