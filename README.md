@@ -6,7 +6,7 @@ Built with Docsify [docsify.js.org](https://docsify.js.org).
 
 - Add your content as [markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) files in the `docs` directory by marking a pull request to this repository. 
 
-- You can either add your files at the root, or put them in subdirectories.
+- You can either add your files at the root of the `docs` directory, or put them in subdirectories.
 
 - Example structure:
     ```
@@ -20,7 +20,7 @@ Built with Docsify [docsify.js.org](https://docsify.js.org).
     │   └── hello_shh.md
     ```
 
-- If you add a new markdown file, don't forget to add it in the [_sidebar.md](docs/_sidebar.md) file.
+- If you add a new markdown file, don't forget to add it in the [docs/_sidebar.md](docs/_sidebar.md) file.
 
 ## Optional (but recommended)
 
