@@ -1,10 +1,12 @@
-# Reproducible research and data management workshop
-
-"Reproducible research and data management" workshop organized by [the Max Planck Institute for the Science of Human History](https://www.shh.mpg.de/en).
+**Reproducible research and data management workshop** organized by [the Max Planck Institute for the Science of Human History](https://www.shh.mpg.de/en).
 
 ### Dates:
 
 29/01/2020 and 30/01/2020
+
+### Schedule
+
+<iframe src="https://calendar.google.com/calendar/embed?height=600&amp;wkst=2&amp;bgcolor=%23ffffff&amp;ctz=Europe%2FParis&amp;src=dmcxYjVxbmUzMWEzY2pzcWVjM2F0ZWMzbDhAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ&amp;color=%ffffff&mode=week&dates=20200129/20200130" style="border-width:0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
 
 ### Location: 
 

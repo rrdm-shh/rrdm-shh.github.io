@@ -11,7 +11,7 @@ Built with Docsify [docsify.js.org](https://docsify.js.org).
 - Example structure:
     ```
     ./docs
-    ├── README.md
+    ├── home.md
     ├── day1
     │   ├── README.md
     │   └── hello_mpi.md
