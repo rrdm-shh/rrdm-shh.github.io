@@ -1,9 +1,9 @@
 <!-- _coverpage.md -->
 
-![](media/mpi_shh_logo.png)
+[![](media/mpi_shh_logo.png)](https://www.shh.mpg.de/en)
 
-# Reproducible research and data management workshop
+# Reproducible Research and Data Management workshop
 
-"Reproducible research and data management" workshop organized by [the Max Planck Institute for the Science of Human History](https://www.shh.mpg.de/en).
+Workshop organized by [the Max Planck Institute for the Science of Human History](https://www.shh.mpg.de/en).
 
 **29/01/2020 and 30/01/2020**

@@ -1,10 +1,10 @@
 Source repository of [rrdm-shh.github.io](https://rrdm-shh.github.io)
 
-Built with Docsify [docsify.js.org](https://docsify.js.org).
+Built with Docsify [docsify.js.org](https://docsify.js.org) and [docsify-thmeable](https://jhildenbiddle.github.io/docsify-themeable)
 
 ## How to add content ?
 
-- Add your content as [markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) files by marking a pull request to this repository. 
+- Add your content as [markdown](https://jhildenbiddle.github.io/docsify-themeable/#/markdown) files by marking a pull request to this repository. 
 
 - You can either add your files at the root directory, or put them in subdirectories.
   - Subdirectories should have a dedicated `README.md` file.
