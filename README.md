@@ -1,16 +1,16 @@
-Source repository of [rrdm-shh.github.io/website](https://rrdm-shh.github.io/website)
+Source repository of [rrdm-shh.github.io/website](https://rrdm-shh.github.io)
 
 Built with Docsify [docsify.js.org](https://docsify.js.org).
 
 ## How to add content ?
 
-- Add your content as [markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) files in the `docs` directory by marking a pull request to this repository. 
+- Add your content as [markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) files by marking a pull request to this repository. 
 
-- You can either add your files at the root of the `docs` directory, or put them in subdirectories.
+- You can either add your files at the root directory, or put them in subdirectories.
 
 - Example structure:
     ```
-    ./docs
+    .
     ├── home.md
     ├── day1
     │   ├── README.md
@@ -20,7 +20,9 @@ Built with Docsify [docsify.js.org](https://docsify.js.org).
     │   └── hello_shh.md
     ```
 
-- If you add a new markdown file, don't forget to add it in the [docs/_sidebar.md](docs/_sidebar.md) file. Headers within a Markdown file are added automatically to the sidebar.
+- If you add a new markdown file, don't forget to add it in the [_sidebar.md](_sidebar.md) file. Headers within a Markdown file are added automatically to the sidebar.
+
+- **DO NOT EDIT `index.html` OR RENAME `home.md`**
 
 ## Optional (but recommended)
 
