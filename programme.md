@@ -33,7 +33,7 @@
 ### Afternoon 
 
 - Parallel Session
-    - Project structure/Package organisation 
+    - **Research Compendia with R** -- Clemens Schmid: We will get to know the concept of a research compendium, which bundles code, text and data for a journal article. We will then use the R package [rrtools](https://github.com/benmarwick/rrtools) to create an own compendium and explore how it facilitates (reproducible) research. Along the way, we will touch on advanced topics such as Virtualization and Continuous integration that can help us to achieve full reproducibility.
     - Jupyter
     - pylexibank, pyconcepticon
     - data curation for CLLD apps
