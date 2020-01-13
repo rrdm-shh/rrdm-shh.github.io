@@ -24,7 +24,7 @@
 ### Morning 
 
 - Parallel Session
-    - Make/Snakemake
+    - **Workflow management systems using Snakemake** -- Alexander Hübner: We will learn how to write reproducible workflows for processing data and data analyses using [Snakemake](https://snakemake.readthedocs.io/en/stable/) that allow us to run our analyses in a resource-efficient way both on your local computer and the computing cluster.
     - Advanced Git/Github practice 
     - Lexibank workflow
     - Orthography profiles
