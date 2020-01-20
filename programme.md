@@ -7,10 +7,10 @@
 - Presentation from each department
     - What do the data look like
     - Archiving platform
-- Jena Data Management platform
-    - FAIR principles
-    - Zenodo, Figshare and data/software archiving.
-    - National Forschung Data Infrastruktur (NFDI)
+- What's on in research data management? (Research Data Management Helpdesk, FSU Jena)
+    - FAIR principles **and other policies**
+    - Zenodo, Figshare and data/software **publishing**
+    - Nationale Forschungsdateninfrastruktur (NFDI)
 
 
 ### Afternoon
