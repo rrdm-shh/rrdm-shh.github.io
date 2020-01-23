@@ -8,7 +8,10 @@ Participants should bring a laptop with an up to date Mac, Linux, or Windows ope
     For Ubuntu and Mac users, this comes pre-installed.  
     For windows users, we encourage you to have a look at the [Windows subsytem for linux](https://www.howtogeek.com/249966/how-to-install-and-use-the-linux-bash-shell-on-windows-10/).
 - **Git**  
-    If git is not yet installed on your system, we encourage to have a look at [this guide](https://www.atlassian.com/git/tutorials/install-git).
+    If git is not yet installed on your system, we encourage to have a look at [this guide](https://www.atlassian.com/git/tutorials/install-git).  
+
+!> For Windows users, make sure to tick `Git bash` install as well
+
 - **Github**  
     You need a free account for the Website Github. Please register [here](https://github.com/join).
 
