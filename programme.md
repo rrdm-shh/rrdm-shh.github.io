@@ -2,15 +2,15 @@
 
 ## 29/01
 
-### Morning 
+### Morning
 
 - Presentation from each department
     - What do the data look like
     - Archiving platform
-- Jena Data Management platform
-    - FAIR principles 
-    - Zenodo, Figshare and data/software archiving.
-    - National Forschung Data Infrastruktur (NFDI)
+- What's on in research data management? (Research Data Management Helpdesk, FSU Jena)
+    - FAIR principles **and other policies**
+    - Zenodo, Figshare and data/software **publishing**
+    - Nationale Forschungsdateninfrastruktur (NFDI)
 
 
 ### Afternoon
@@ -22,7 +22,7 @@
 
 ## 30/01
 
-### Morning 
+### Morning
 
 - Advanced Git/Github practice -- Clemens Schmid and Maxime Borry
 - Parallel Session
@@ -36,4 +36,3 @@
     - **Research Compendia with R** -- Clemens Schmid: We will get to know the concept of a research compendium, which bundles code, text and data for a journal article. We will then use the R package [rrtools](https://github.com/benmarwick/rrtools) to create an own compendium and explore how it facilitates (reproducible) research. Along the way, we will touch on advanced topics such as Virtualization and Continuous integration that can help us to achieve full reproducibility.
     - Lexibank workflows -- Tiago Tresoldi and Christoph Rzymski
     - **Capstone project** -- You will put into practice what you've learned in the last two days and work on a mock research project involving different data, tools, and collaborators.
-
