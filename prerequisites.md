@@ -11,11 +11,25 @@ Participants should bring a laptop with an up to date Mac, Linux, or Windows ope
     If git is not yet installed on your system, we encourage to have a look at [this guide](https://www.atlassian.com/git/tutorials/install-git).
 - **Github**  
     You need a free account for the Website Github. Please register [here](https://github.com/join).
-    
-*For "Runtime reproducibility with Conda and Jupyter" and "Make/Snakemake"*
-    
+
 - **Conda**
     We recommend you to install **miniconda** on your system. The install guide can be found here for [Windows](https://conda.io/projects/conda/en/latest/user-guide/install/windows.html), [Mac](https://conda.io/projects/conda/en/latest/user-guide/install/macos.html), and [Linux](https://conda.io/projects/conda/en/latest/user-guide/install/linux.html)
+
+- **Other required softwares** will be installed using a conda environment (<a href="environment.yml" download="environment.yml">click here to download</a>)
+
+Once you've downloaded the conda environment, change the directory to where the environment was downloaded (for example `download_directory`)
+
+```bash
+cd download_directory
+```
+
+And install the environment using conda
+
+```bash
+conda env create -f environment.yml
+```
+
+--- 
 
 *For "Research Compendia with R". If you do not want to install this software, you can also follow this tutorial in an RStudio Cloud session in the browser*
 
