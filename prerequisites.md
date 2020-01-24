@@ -1,4 +1,4 @@
-Participants should bring a laptop with an up to date Mac, Linux, or Windows operating system (not a tablet, Chromebook, etc.) that they have administrative privileges on. If you have already installed these programs, please make sure you have the most recent versions. If you have questions, please contact us via the gitter chat (bottom right of this page).
+Participants should bring a laptop with an up to date Mac, Linux, or Windows operating system (not a tablet, Chromebook, etc.) that they have administrative privileges on. If you have already installed these programs, please make sure you have the most recent versions. If you have questions, please contact us via the gitter chat (bottom right of this page) .
 
 # Softwares to install
 
