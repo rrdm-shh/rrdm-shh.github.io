@@ -7,8 +7,8 @@ channels:
 dependencies:
   - python >=3.6
   - pip
-  - jupyter
-  - nb_conda_kernels
+  - jupyterlab
+  - nb_conda
   - samtools
   - bcftools
   - htslib
