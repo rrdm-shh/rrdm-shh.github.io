@@ -1,13 +1,13 @@
 # Advanced Git/Github practice
 
-- What is Github? 
-- Similar products (Gitlab, Bitbucket, ...)
+- What is [Github](https://en.wikipedia.org/wiki/GitHub)? 
+- Similar products ([Gitlab](https://about.gitlab.com/), [Bitbucket](https://bitbucket.org/), ...)
 - The Github start page -> Github has a strong social network component
 - Profile page
 - The repository
 - Creating a new repository: Your Name + your favorite animal -> ClemensArmadillo
 - The repository page (Issues!)
-- Cloning the repository `git clone ...`
+- Cloning the repository (with https) `git clone ...`
 - Look at remotes `git remote -v`
 - Edit README with text editor
 - Use what we learned yesterday: `git status` + `git add --all` + `git commit -m "my first commit to github"` + `git push` + `git status`
@@ -22,8 +22,8 @@
 - Inspect the github network graph
 - `git pull` + `git log` to your local system
 
-Advanced topics:
-- Connecting to github via ssh
-- Merge conflicts
-- Protected branches
+### Advanced topics:
 
+- Connecting to github via *ssh*
+- Merge conflicts
+- Protected branches  
