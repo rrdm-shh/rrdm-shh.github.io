@@ -16,7 +16,7 @@
 
 - Create an own repository: Your Name + your favorite animal -> ClemensDonkey
 - Connect to [github via ssh](https://help.github.com/en/github/authenticating-to-github/connecting-to-github-with-ssh):
-	- Generat a new SSH key: ssh-keygen -t rsa -b 4096 -C "your_email@example.com" (passphrase not required)
+	- Generate a new SSH key: `ssh-keygen -t rsa -b 4096 -C "your_email@example.com"` (passphrase not required)
 	- Add the key to your GitHub account
 	- Test your SSH connection `ssh -T git@github.com`
 - Clone the repository (with ssh): `git clone ...`
