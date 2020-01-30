@@ -9,6 +9,7 @@
     - [Conda and Jupyter](day1/conda.md "Conda and jupyter")
 - **Day 2**
     - [Advanced Git](day2/advanced_git.md "Advanced Git")
+    - [Workflow management systems](day2/snakemake.md "Workflow management systems")
     - [Capstone project](day2/capstone.md "Capstone")
 - [Code of conduct](code_conduct.md "Code of conduct")
 - [Sponsors](sponsors.md "Sponsors")
