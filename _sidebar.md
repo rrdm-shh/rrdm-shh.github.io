@@ -12,6 +12,7 @@
 - **Day 2**
     - [Advanced Git](day2/advanced_git.md "Advanced Git")
     - [Workflow management systems](day2/snakemake.md "Workflow management systems")
+    - [rrtools](https://nevrome.github.io/rrtools.tutorial.mpi2020 "Reproducible research with R packages")
     - [Capstone project](day2/capstone.md "Capstone")
     - [CLDF and CSVW](day2/cldf.md "CLDF and CSVW")
 - [Code of conduct](code_conduct.md "Code of conduct")
