@@ -11,6 +11,7 @@
     - [Versioning with Git and GitHub](day1/git.md "Git Intro")
 - **Day 2**
     - [Advanced Git](day2/advanced_git.md "Advanced Git")
+    - [Workflow management systems](day2/snakemake.md "Workflow management systems")
     - [Capstone project](day2/capstone.md "Capstone")
     - [CLDF and CSVW](day2/cldf.md "CLDF and CSVW")
 - [Code of conduct](code_conduct.md "Code of conduct")
