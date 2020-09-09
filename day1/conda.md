@@ -55,3 +55,15 @@ jupyterlab(){
     jupyter-lab --no-browser --notebook-dir ./ --ip $JUP_IP  --port 8889
 }
 ```
+
+---
+
+**To run Jupyter Lab as a desktop application**
+
+[Full tutorial](http://christopherroach.com/articles/jupyterlab-desktop-app/)
+
+TLDR: add the following line to `~/.jupyter/jupyter_notebook_config.py`
+
+```python
+c.LabApp.browser = '/Applications/Google\ Chrome.app/Contents/MacOS/Google\ Chrome --app=%s'
+```
